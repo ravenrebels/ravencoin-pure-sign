@@ -1,0 +1,58 @@
+{
+    "transactionId": "b37d2ba14205a99137a48aae3ef8197e861e122c075f399de7627504d3ddc967",
+    "debug": {
+      "assetName": "BUTTER",
+      "assetUTXOs": [
+        {
+          "address": "n2yTZNNymrwmSjinaArzscRnc4w6HmG2Pt",
+          "assetName": "BUTTER",
+          "txid": "795c3b41a2faf1776f4077f91f8d5499b9fd13feedf38f9a2f3fa6b2dba68fea",
+          "outputIndex": 1,
+          "script": "76a914eb5de286f490a81f844b9824e3069362d2d2c5bb88acc01372766e740642555454455200638f3639c3110075",
+          "satoshis": 4999725100000000,
+          "height": 941250
+        }
+      ],
+      "fee": 0.02,
+      "inputs": [
+        {
+          "txid": "795c3b41a2faf1776f4077f91f8d5499b9fd13feedf38f9a2f3fa6b2dba68fea",
+          "vout": 2,
+          "address": "mgRYHdMqD1gwm9QQqBRUPcDKdEZ9oVeChA"
+        },
+        {
+          "txid": "795c3b41a2faf1776f4077f91f8d5499b9fd13feedf38f9a2f3fa6b2dba68fea",
+          "vout": 1,
+          "address": "n2yTZNNymrwmSjinaArzscRnc4w6HmG2Pt"
+        }
+      ],
+      "outputs": {
+        "mhBKhj5FxzBu1h8U6pSB16pwmjP7xo4ehG": { "transfer": { "BUTTER": 100 } },
+        "muSuC1fPZfM2PxExj5U39dM4c9jwBAPsk2": {
+          "transfer": { "BUTTER": 49997151 }
+        },
+        "mrnkTamyccjSWrku5Emnnbf7vQcgAL1Rj1": 8570984.97
+      },
+      "rvnChangeAmount": 8570984.97,
+      "rvnUTXOs": [
+        {
+          "address": "mgRYHdMqD1gwm9QQqBRUPcDKdEZ9oVeChA",
+          "assetName": "RVN",
+          "txid": "795c3b41a2faf1776f4077f91f8d5499b9fd13feedf38f9a2f3fa6b2dba68fea",
+          "outputIndex": 2,
+          "script": "76a91409f2017224efdaf3633d26b1cf11a1df418496f688ac",
+          "satoshis": 857098499000000,
+          "height": 941250
+        }
+      ],
+      "unspentRVNAmount": "8 570 984,99",
+      "rvnAmount": 0,
+      "rawUnsignedTransaction": "0200000002ea8fa6dbb2a63f2f9a8ff3edfe13fdb999548d1ff977406f77f1faa2413b5c790200000000ffffffffea8fa6dbb2a63f2f9a8ff3edfe13fdb999548d1ff977406f77f1faa2413b5c790100000000ffffffff0300000000000000002f76a9141239cd8e03d180a55b75763f9ef7424b7e2eee8f88acc01372766e740642555454455200e40b54020000007500000000000000002f76a91498cd818267bf28e0474a0db3f9d25fcb297686ec88acc01372766e7406425554544552007f83e236c3110075408273cb860b03001976a9147ba628b84127e132b1352022b2bb58eaeaed340888ac00000000",
+      "privateKeys": {
+        "mgRYHdMqD1gwm9QQqBRUPcDKdEZ9oVeChA": "cVP9mzcDqMzWDhekiKMWKqEy739Cp6rKDT4tbG4wXXVfopMfTiBW",
+        "n2yTZNNymrwmSjinaArzscRnc4w6HmG2Pt": "cNDLgPQeamrPgEoycTPzs22cSUmHxEsYwAM5aebxrH6kfz7scL4f"
+      },
+      "signedTransaction": "0200000002ea8fa6dbb2a63f2f9a8ff3edfe13fdb999548d1ff977406f77f1faa2413b5c79020000006b4830450221008029d8e512a90bd28fb4b37c8b2bf333946514e8375a2bfcb08eb655ef1714c60220030b738fb0485dcc2d35d7a03f82c6a1aae879f96e49f1192c947e0d5bc6f308012102666e9b6aacfa34715c1050e890fa8f07a5e73c70f23abdca585f1506514d81a0ffffffffea8fa6dbb2a63f2f9a8ff3edfe13fdb999548d1ff977406f77f1faa2413b5c79010000006b483045022100b15c6cf36c26a7f39d0aa2136ec4d93b4f45d371d7f07b9ff7744d4ef0b5c531022050b060579e14e903c2b611b0d8bce69f0afeb800a13bb6cd09f5029d1debab6f01210388ecd3c7000c48230b389a0c9018769a35008261151a04261af979addc848b42ffffffff0300000000000000002f76a9141239cd8e03d180a55b75763f9ef7424b7e2eee8f88acc01372766e740642555454455200e40b54020000007500000000000000002f76a91498cd818267bf28e0474a0db3f9d25fcb297686ec88acc01372766e7406425554544552007f83e236c3110075408273cb860b03001976a9147ba628b84127e132b1352022b2bb58eaeaed340888ac00000000"
+    }
+  }
+  
